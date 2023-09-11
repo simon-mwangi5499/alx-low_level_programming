@@ -1,12 +1,14 @@
 #include <stdio.h>
 /**
- * main - entry point
+ * main - program entry point
  * Return: 0(SUCCESS)
  */
 int main(void)
 {
 char c;
+
 char d;
+
 c = 'a';
 d = 'A';
 while
