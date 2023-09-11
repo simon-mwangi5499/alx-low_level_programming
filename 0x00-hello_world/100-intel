@@ -1,2 +1,2 @@
 #!/bin/bash
-gss -S -masm=intel "$CFILE" -o "main.s"
+gss -S -masm=intel $CFILE = 0 - main.c
