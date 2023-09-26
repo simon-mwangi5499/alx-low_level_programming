@@ -9,7 +9,7 @@ int main(void)
 {
         int i;
 
-        printf("printing numbers from 0 to 9 :(\n");
+        printf("Infinite loop incoming :(\n");
 
         i = 0;
 
@@ -19,7 +19,7 @@ int main(void)
 		i++
         }
 
-        printf("\nInfinite loop avoided! \\o/\n");
+        printf("Infinite loop avoided! \\o/\n");
 
         return (0);
 }
