@@ -9,7 +9,7 @@ int main(void)
 {
         int i;
 
-        printf("printing numbers from 0 to 9:(\n");
+        printf("printing numbers from 0 to 9 :(\n");
 
         i = 0;
 
